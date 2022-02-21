@@ -378,16 +378,17 @@ section{
     font-weight: 100;
 }
 .rooms-btn{
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: var(--dark-color);
     padding: 0;
     transition: color .5s;
     font-weight: 600;
     width: 10rem;
-    height: 2rem;
+    height: 2.6rem;
 }
 .rooms-btn:hover{
     color: var(--yellow-solid);
+    background-color: var(--purple-solid);
 }
 /* Contact section styles */
 .contact-content{
